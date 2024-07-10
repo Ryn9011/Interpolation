@@ -1,0 +1,14 @@
+D:\auror\AlgorithmAssessment\bin\Debug\net8.0\AlgorithmAssessment.exe
+D:\auror\AlgorithmAssessment\bin\Debug\net8.0\AlgorithmAssessment.deps.json
+D:\auror\AlgorithmAssessment\bin\Debug\net8.0\AlgorithmAssessment.runtimeconfig.json
+D:\auror\AlgorithmAssessment\bin\Debug\net8.0\AlgorithmAssessment.dll
+D:\auror\AlgorithmAssessment\bin\Debug\net8.0\AlgorithmAssessment.pdb
+D:\auror\AlgorithmAssessment\obj\Debug\net8.0\AlgorithmAssessment.GeneratedMSBuildEditorConfig.editorconfig
+D:\auror\AlgorithmAssessment\obj\Debug\net8.0\AlgorithmAssessment.AssemblyInfoInputs.cache
+D:\auror\AlgorithmAssessment\obj\Debug\net8.0\AlgorithmAssessment.AssemblyInfo.cs
+D:\auror\AlgorithmAssessment\obj\Debug\net8.0\AlgorithmAssessment.csproj.CoreCompileInputs.cache
+D:\auror\AlgorithmAssessment\obj\Debug\net8.0\AlgorithmAssessment.dll
+D:\auror\AlgorithmAssessment\obj\Debug\net8.0\refint\AlgorithmAssessment.dll
+D:\auror\AlgorithmAssessment\obj\Debug\net8.0\AlgorithmAssessment.pdb
+D:\auror\AlgorithmAssessment\obj\Debug\net8.0\AlgorithmAssessment.genruntimeconfig.cache
+D:\auror\AlgorithmAssessment\obj\Debug\net8.0\ref\AlgorithmAssessment.dll

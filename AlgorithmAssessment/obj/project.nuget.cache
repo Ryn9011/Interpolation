@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ox0odQwvk2w=",
+  "success": true,
+  "projectFilePath": "D:\\auror\\AlgorithmAssessment\\AlgorithmAssessment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ryan.jennings\\.nuget\\packages\\mstest.testframework\\3.4.3\\mstest.testframework.3.4.3.nupkg.sha512"
+  ],
+  "logs": []
+}
